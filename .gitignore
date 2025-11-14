@@ -1,0 +1,80 @@
+############################
+# Java
+############################
+*.class
+*.jar
+*.war
+*.ear
+*.log
+
+# Dossiers de build
+/bin/
+/build/
+/out/
+/target/
+
+############################
+# VS Code
+############################
+.vscode/
+*.code-workspace
+
+############################
+# IntelliJ / JetBrains
+############################
+.idea/
+*.iml
+
+############################
+# Eclipse
+############################
+.project
+.classpath
+.settings/
+
+############################
+# OS
+############################
+# Windows
+Thumbs.db
+ehthumbs.db
+*.lnk
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+############################
+# Python (au cas où)
+############################
+__pycache__/
+*.pyc
+
+############################
+# Sécurité : fichiers sensibles
+############################
+*.key
+*.pem
+*.crt
+*.keystore
+
+############################
+# Dossier contenant des fichiers reçus
+# (selon ton screenshot : Client/received)
+############################
+Client/received/
+
+############################
+# Documents personnels
+############################
+*.docx
+*.pdf
+*.jpg
+*.jpeg
+*.png
+
+############################
+# README (autorisé)
+############################
+# (Ne rien ajouter ici)
