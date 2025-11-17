@@ -8,11 +8,14 @@ Ce projet implémente une application **Client / Serveur** pour le **transfert d
 - Un **protocole de session en 3 phases** (Authentification, Négociation, Transfert).
 - Un serveur **multi-threads** (un thread par client).
 
+REALISE PAR : 
+- MOUHAMMAD Hassani Hamadi
+- DJIGUEMDE Norbert
 ---
 
 ## 1. Arborescence / Structure des fichiers
 
-Dans le dossier `Examen/`, le code est structuré en **trois modules** :
+Dans le dossier ce dossier, le code est structuré en **trois modules** :
 
 - `Serveur/`  
   Contient tout le code côté **serveur** :
